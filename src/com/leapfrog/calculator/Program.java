@@ -18,7 +18,7 @@ public class Program {
         System.out.println("5.Power");
         System.out.println("6.Min");
         System.out.println("7.Max");
-        System.out.println("8.Mul-Table");
+        System.out.println("8.MulTable");
         System.out.println("9.Exit");
         System.out.println("Select number from[1-9]");
     }
